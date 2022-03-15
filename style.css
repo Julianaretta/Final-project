@@ -1,0 +1,27 @@
+body {
+  color: beige;
+  background-color: black;
+}
+h1 {
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 70%;
+}
+
+#Hello,
+#work,
+#contact {
+  transition: all 1.3s ease;
+}
+
+a {
+  text-decoration: none;
+  font-family: "Trebuchet MS";
+  font-size: 150px;
+  color: beige;
+  text-align: left;
+  cursor: pointer;
+}
